@@ -1,0 +1,6 @@
+{
+  "name": "Mindful Green Campus Companion",
+  "description": "A comprehensive cross-platform student companion for mindfulness, circular economy, and sustainability. Features include mindful auditing, campus carbon dashboards, and a mindful vendor rewards network.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["AI-powered mindfulness", "Eco-impact tracking", "Peer-to-peer marketplace", "Gamified rewards"]
+}
